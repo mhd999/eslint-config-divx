@@ -14,7 +14,18 @@ In your `.eslintrc`-file:
 ```js
 {
   "extends": [
-    "@telia/eslint-config-divx"
+    "@telia/eslint-config-divx/frontend"
+  ]
+}
+```
+
+## Usage Backend
+
+In your `.eslintrc`-file:
+```js
+{
+  "extends": [
+    "@telia/eslint-config-divx/backend"
   ]
 }
 ```

@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/TeliaSoneraNorge/eslint-config-divx#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^15.1.0"
+    "eslint-config-airbnb": "^15.1.0",
+    "merge-deep": "3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
